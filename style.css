@@ -1,0 +1,18 @@
+body{
+  background-color: lightblue;
+}
+div{
+  color: white;
+}
+ul{
+  font-weight: 700;
+}
+p{
+  color: black;
+}
+h1{
+  color: red;
+}
+footer{
+  font-size: 25px;
+}
